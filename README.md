@@ -1,1 +1,1 @@
-# androidstudioda-adsoyad-butonu
+# android studio'da Ad-Soyad butonu
